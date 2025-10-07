@@ -15,4 +15,4 @@ SWAP → swap top two stack bytes
 PRINT X → output ASCII character of X (no newline)
 
 Submit the final answer as
-CTF{<all printed characters concatenated>}
+flag{<all printed characters concatenated>}
